@@ -1,0 +1,10 @@
+framework module WView {
+  umbrella header "WView.h"
+  export *
+
+  module * { export * }
+}
+
+module WView.Swift {
+  header "WView-Swift.h"
+}

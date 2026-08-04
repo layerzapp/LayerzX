@@ -6,10 +6,18 @@ Convert Layerz App Designer `.layerz` files into a standalone Xcode project.
 
 LayerzX allows you to take design files created with Layerz App Designer and run them as a native iOS application directly from Xcode.
 
+## About Layerz App Designer
+
+Layerz App Designer is a visual design tool that lets you create beautiful iOS app layouts without writing code. Design your user interface visually, and export it as a `.layerz` file to be run as a native iOS application.
+
+**Download Layerz App Designer:**
+- [App Store](https://apps.apple.com/app/layerz-app-designer/id6499101592)
+
 ## Getting Started
 
 ### Prerequisites
 - Xcode 14.0 or later
+- Layerz App Designer (available on the [App Store](https://apps.apple.com/app/layerz-app-designer/id6499101592))
 - A `.layerz` file created with Layerz App Designer
 
 ### Running Your Design

@@ -8,7 +8,7 @@ LayerzX allows you to take design files created with Layerz App Designer and run
 
 ## About Layerz App Designer
 
-Layerz App Designer is a visual design tool that lets you create beautiful iOS app layouts without writing code. Design your user interface visually, and export it as a `.layerz` file to be run as a native iOS application.
+Layerz App Designer is a visual design tool and no-code app builder that lets you create beautiful iOS app layouts without writing code. Design your user interface visually, and export it as a `.layerz` file to be run as a native iOS application.
 
 **Download Layerz App Designer:**
 - [App Store](https://apps.apple.com/app/layerz-app-designer/id6499101592)
